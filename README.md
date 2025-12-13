@@ -1,7 +1,6 @@
 # Power BI Beginner Project
 
-This repository contains a beginner-level Power BI project created by following
-**Leila Gharani’s "How to use Microsoft Power BI – Tutorial for Beginners"**.
+This repository contains a beginner-level Power BI project created by following Leila Gharani
 
 ## 📌 Project Overview
 
@@ -27,12 +26,11 @@ The goal of this project is to demonstrate:
 
 - Microsoft Power BI Desktop
 - Power Query Editor
-- Excel / CSV data sources
+- Excel 
 
 ## 📚 Learning Source
 
 Tutorial by **Leila Gharani**  
-YouTube: *How to use Microsoft Power BI - Tutorial for Beginners*
 
 ## 📷 Dashboard Preview
 ## 📊 Sales Report Dashboard
@@ -42,8 +40,5 @@ YouTube: *How to use Microsoft Power BI - Tutorial for Beginners*
 
 
 
----
-
-📅 **Level**: Beginner  
 
 
