@@ -35,8 +35,7 @@ Tutorial by **Leila Gharani**
 YouTube: *How to use Microsoft Power BI - Tutorial for Beginners*
 
 ## 📷 Dashboard Preview
-
-![Dashboard Overview]("C:\Users\ankit\OneDrive\Documents\SalesReport_overview.png")
+![Dashboard Overview](screenshots/Documents\SalesReport_overview.png)
 
 
 ---
