@@ -35,7 +35,11 @@ Tutorial by **Leila Gharani**
 YouTube: *How to use Microsoft Power BI - Tutorial for Beginners*
 
 ## 📷 Dashboard Preview
-![Dashboard Overview](screenshots/Documents\SalesReport_overview.png)
+## 📊 Sales Report Dashboard
+
+![Sales Report Overview](SalesReport_overview.png)
+
+
 
 
 ---
