@@ -35,7 +35,7 @@ Tutorial by **Leila Gharani**
 ## 📷 Dashboard Preview
 ## 📊 Sales Report Dashboard
 
-![Sales Report Overview](SalesReport_overview.png)
+![Sales Report_Overview](SalesReportOverview.png)
 
 
 
